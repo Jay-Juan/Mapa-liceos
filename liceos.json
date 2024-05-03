@@ -1,0 +1,83 @@
+{
+    "liceos": [
+        {
+            "nombre": "IEP",
+            "latitud": -34.803316034114594,
+            "longitud": -55.9058164171355,
+            "link": "https://maps.app.goo.gl/QeQyr5ZtV1Vo8Uur6"
+        },
+        {
+            "nombre": "Colegio salesiano de la Costa",
+            "latitud": -34.81710765801653,
+            "longitud": -55.927056771888694,
+            "link": "https://maps.app.goo.gl/5ZcvFimLwqMnVKRn9"
+
+        },
+        {
+            "nombre": "Liceo médanos",
+            "latitud": -34.80614959522127,
+            "longitud": -55.92787216341784,
+            "link": "https://maps.app.goo.gl/orBPoJyh689StxLU8"
+
+        },
+        {
+            "nombre": "Liceo It-Hué",
+            "latitud": -34.817978440284804,
+            "longitud": -55.9550270873078,
+            "link": "https://maps.app.goo.gl/3rswfwfDr7MDvNpW9"
+
+        },
+        {
+            "nombre": "Areteia",
+            "latitud": -34.8254473308886,
+            "longitud": -55.955713732817294,
+            "link": "https://maps.app.goo.gl/wFjAii57ZsE3U2uh7"
+
+        },
+        {
+            "nombre": "AlterNativo",
+            "latitud": -34.82613814578286,
+            "longitud": -55.966760828555216,
+            "link": "https://maps.app.goo.gl/ZzgSsy1wmezmLVMZ6"
+
+        },
+        {
+            "nombre": "Aleph",
+            "latitud": -34.833416171217706,
+            "longitud": -55.9815901954562,
+            "link": "https://maps.app.goo.gl/rNvocf3EbxrcghEG8"
+
+        },
+        {
+            "nombre": "Colegio José Pedro Varela",
+            "latitud": -34.8507816100646,
+            "longitud": -55.99088201486951,
+            "link": "https://maps.app.goo.gl/qYVoLYbBJomGxQmt6"
+
+        },
+        {
+            "nombre": "Colegio Alemán",
+            "latitud": -34.87090224899042,  
+            "longitud": -56.029295774169135,
+            "link": "https://maps.app.goo.gl/J8xcz4BBDcqquFCE7"
+
+        },
+        {
+            "nombre": "Uruguá",
+            "latitud": -34.811157171125664,  
+            "longitud": -55.914653258830356,
+            "link": "https://maps.app.goo.gl/u22oF6eS3RW4s8S7A"
+
+        },
+        {
+            "nombre": "Colegio Siglo XXI",
+            "latitud": -34.80459862198959,
+            "longitud": -55.90802845302906,
+            "link": "https://maps.app.goo.gl/KuGT4geBbjG5VgKU9"
+
+        }
+
+    ]
+}
+
+
