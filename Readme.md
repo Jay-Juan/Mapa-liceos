@@ -1,6 +1,9 @@
 # Mapa Liceos
 
 This map contains some high schools located in Ciudad de la Costa.
+
+You can check the map [here](https://jay-juan.github.io/Mapa-liceos/)
+
 Within you can find
     
  - A pin marking the location of each high school
